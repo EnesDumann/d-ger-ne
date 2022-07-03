@@ -13,5 +13,5 @@ public class kitleEndex {
         System.out.print("Vucut Kitle Indeksiniz : " + c);
 
 
-    }
+           }
 }
